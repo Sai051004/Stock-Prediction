@@ -1,6 +1,6 @@
-                                                                             STOCK MARKET PREDICTION
+                                                               STOCK MARKET PREDICTION
 
-1.APPROACH and METHODOLOGIES:
+APPROACH and METHODOLOGIES:
 
  1.Data Import and Exploration:
 
