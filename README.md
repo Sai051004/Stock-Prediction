@@ -32,18 +32,6 @@
    - The models are evaluated using common regression evaluation metrics like Mean Squared Error (MSE) and R-squared (R²).
    - A trained Linear Regression model is saved to a file ('linear_regression_model.pkl') for future use.
 
-2.INSIGHTS:
-
- 1 .Average trade volume was higher in 'Monday' and lower in 'Thursday' of the week.
- 2 .Total trade volume was extremely high in the month of 'March' and lower in the month of 'January'.
- 3 .Average price rise is higher at 'Monday' and lower at 'Tuesday'.
- 4 .Average price rise is higher in the month of 'October' and lower in the month of 'April'.
- 5 .Stock 'low price' is directly proportional to stock 'high price'.
- 6 .Average close price was high in the month of 'January' and lower in the month of 'September'.
- 7 .Close price was greater than 100 rarely.
- 8 .Close price frequency was maximum in the area of '0-25'.
- 9 .Daily price change(%) frequency range was between '0-17'.
- 10.'open','high','low','close','adjclose','low-5','high-5', These column are always depend on each other.
 
 
 
