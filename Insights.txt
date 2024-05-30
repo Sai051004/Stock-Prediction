@@ -1,0 +1,15 @@
+INSIGHTS:
+ -Average trade volume was higher in 'Monday' and lower in 'Thursday' of the week.
+ -Total trade volume was extremely high in the month of 'March' and lower in the month of 'January'.
+ -Average price rise is higher at 'Monday' and lower at 'Tuesday'.
+ -Average price rise is higher in the month of 'October' and lower in the month of 'April'.
+ -Stock 'low price' is directly proportional to stock 'high price'.
+ -Average close price was high in the month of 'January' and lower in the month of 'September'.
+ -Close price was greater than 100 rarely.
+ -Close price frequency was maximum in the area of '0-25'.
+ -Daily price change(%) frequency range was between '0-17'.
+ -'open','high','low','close','adjclose','low-5','high-5', These column are always depend on each other.
+
+
+
+
