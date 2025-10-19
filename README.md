@@ -1,5 +1,4 @@
-                                                               STOCK MARKET PREDICTION
-
+                                                           STOCK MARKET PREDICTION
 APPROACH and METHODOLOGIES:
 
  1.Data Import and Exploration:
